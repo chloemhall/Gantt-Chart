@@ -8,7 +8,8 @@ library(scales)
 # Start & End dates should be in format YYYY.MM.DD
 
 #load data
-ganttchart <- read.csv("Ganttchart_example.csv", header= TRUE)
+ganttchart<-read.csv(file.choose(), header=TRUE) #this will open your folders, navigate to 
+#your .csv file with the data for your project
 
 #gets a list of the Activities
 acts<- c(ganttchart$Activity)
