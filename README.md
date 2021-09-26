@@ -7,3 +7,4 @@ Dates should be in format: YYYY.MM.DD
 
 Save as .csv 
 
+Download the R code.
