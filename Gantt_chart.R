@@ -1,3 +1,7 @@
+#Uncomment the below if you haven't already installed scales and tidyverse
+#install.packages("tidyverse")
+#install.packages("scales")
+
 library(tidyverse)
 library(scales)
 ## simple code to produce a nice Gantt chart
