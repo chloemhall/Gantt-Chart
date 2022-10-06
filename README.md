@@ -12,4 +12,4 @@ Download the R code and run.
 
 Note that code for the chart itself was adapted from: https://www.molecularecologist.com/2019/01/03/simple-gantt-charts-in-r-with-ggplot2-and-the-tidyverse/
 
-![Happy Christmas](example_Gantt_chart.png)
+![Below is an example](example_Gantt_chart.png)
